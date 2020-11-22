@@ -1,0 +1,12 @@
+C:\Users\Dusan\Desktop\Integracioni\MQuince.IntegrationMySQL\MQuince.IntegrationMySQL\bin\Debug\netcoreapp3.1\MQuince.IntegrationMySQL.deps.json
+C:\Users\Dusan\Desktop\Integracioni\MQuince.IntegrationMySQL\MQuince.IntegrationMySQL\bin\Debug\netcoreapp3.1\MQuince.IntegrationMySQL.dll
+C:\Users\Dusan\Desktop\Integracioni\MQuince.IntegrationMySQL\MQuince.IntegrationMySQL\obj\Debug\netcoreapp3.1\MQuince.IntegrationMySQL.csprojAssemblyReference.cache
+C:\Users\Dusan\Desktop\Integracioni\MQuince.IntegrationMySQL\MQuince.IntegrationMySQL\obj\Debug\netcoreapp3.1\MQuince.IntegrationMySQL.AssemblyInfoInputs.cache
+C:\Users\Dusan\Desktop\Integracioni\MQuince.IntegrationMySQL\MQuince.IntegrationMySQL\obj\Debug\netcoreapp3.1\MQuince.IntegrationMySQL.AssemblyInfo.cs
+C:\Users\Dusan\Desktop\Integracioni\MQuince.IntegrationMySQL\MQuince.IntegrationMySQL\bin\Debug\netcoreapp3.1\MQuince.IntegrationMySQL.pdb
+C:\Users\Dusan\Desktop\Integracioni\MQuince.IntegrationMySQL\MQuince.IntegrationMySQL\obj\Debug\netcoreapp3.1\MQuince.IntegrationMySQL.dll
+C:\Users\Dusan\Desktop\Integracioni\MQuince.IntegrationMySQL\MQuince.IntegrationMySQL\obj\Debug\netcoreapp3.1\MQuince.IntegrationMySQL.pdb
+C:\Users\Dusan\Desktop\Integracioni\MQuince.IntegrationMySQL\MQuince.IntegrationMySQL\bin\Debug\netcoreapp3.1\MQuince.IntegrationMySQL.runtimeconfig.json
+C:\Users\Dusan\Desktop\Integracioni\MQuince.IntegrationMySQL\MQuince.IntegrationMySQL\bin\Debug\netcoreapp3.1\MQuince.IntegrationMySQL.runtimeconfig.dev.json
+C:\Users\Dusan\Desktop\Integracioni\MQuince.IntegrationMySQL\MQuince.IntegrationMySQL\obj\Debug\netcoreapp3.1\MQuince.IntegrationMySQL.genruntimeconfig.cache
+C:\Users\Dusan\Desktop\Integracioni\MQuince.IntegrationMySQL\MQuince.IntegrationMySQL\obj\Debug\netcoreapp3.1\MQuince.IntegrationMySQL.csproj.CoreCompileInputs.cache
